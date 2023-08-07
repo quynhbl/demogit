@@ -1,0 +1,28 @@
+footer {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.mn2 li{
+    margin-top: 15px;
+    text-decoration: none;
+}
+.mn2 li a{
+    text-decoration: none;
+}
+.ft2 {
+    font-size: 18px;
+    margin-top: 1px;
+    line-height: 200%;
+    list-style: none;
+}
+.ft2 a {
+    text-decoration: none;
+    color: black;
+}
+.ft3 {
+    flex-wrap: wrap-reverse;
+    background-color: rgb(5, 5, 26);
+    color: white;
+    text-align: center;
+}
